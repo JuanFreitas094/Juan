@@ -5,7 +5,7 @@
       
 🌎 Apenas mais um rapaz latino americano aprendendo a programar 🇧🇷
 
-🌱 Atualmente aprendendo: Pyhton, HTML, PHP, CSS e JavaScript
+🌱 Atualmente aprendendo: Pyhton, HTML, PHP, CSS, JavaScript e algumas API's
 
 ⌨️ 🖱️ Estudante de Análise e Desenvolvimento de Sistemas  
 
